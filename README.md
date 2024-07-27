@@ -7,14 +7,11 @@ just a strange daydream....
 
 [ a ] -> [ b ] -> [ c ] -> [ a ]
 
-
-
-
 [ project A ] -> [ project B ] -> [ project C ] -> [ project A ]
-
 
 usage:
 
 snork [project]
 
 
+![screenshot](images/snorker_screenshot.jpg)
