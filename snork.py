@@ -9,7 +9,6 @@ while(1):
     snork = input("Snork value: ")
     now = int(time.time())
     print(snork)
-    snorker[now] = (snork, last)
-    val0=snorker[last][0]
-    snorker[last] = (val0, now)
+    snorker[now] = (snork, head)
+    snorker[last] = (snorker[last][0], now)
     print(snorker)
