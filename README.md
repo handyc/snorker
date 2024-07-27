@@ -10,7 +10,8 @@ just a strange daydream....
 [ project A ] -> [ project B ] -> [ project C ] -> [ project A ]
 
 usage:
-
+snork
+OR
 snork [project]
 
 
