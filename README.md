@@ -14,4 +14,4 @@ usage:
 snork [project]
 
 
-![screenshot](images/snorker_screenshot.jpg)
+![screenshot](images/snorker_screenshot.png)
